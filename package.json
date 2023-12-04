@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@google-cloud/storage": "^4.5.0",
-    "@nestjs/common": "^6.11.11",
+    "@nestjs/common": "^10.2.10",
     "@nestjs/core": "^6.11.11",
     "@nestjs/passport": "^6.2.0",
     "@nestjs/platform-express": "^6.11.11",
